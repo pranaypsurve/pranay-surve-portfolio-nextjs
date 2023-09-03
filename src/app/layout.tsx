@@ -1,7 +1,7 @@
-import Footer from "@/components/Footer";
 import "./globals.css";
 import "./style.css";
 import Navbar from "@/components/Navbar";
+import Footer from "@/components/Footer";
 
 export const metadata = {
   // title: "Create Next App",
